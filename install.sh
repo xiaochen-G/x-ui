@@ -61,8 +61,8 @@ info_bar(){
     clear
     echo "#############################################################"
     echo -e "#                         ${RED}x-ui 面板${PLAIN}                         #"
-    echo -e "# ${GREEN}作者${PLAIN}: taffychan                                           #"
-    echo -e "# ${GREEN}GitHub${PLAIN}: https://github.com/taffychan                      #"
+    echo -e "# ${GREEN}作者${PLAIN}: 果子好                                           #"
+    echo -e "# ${GREEN}GitHub${PLAIN}: https://t.me/G_xiaochen                      #"
     echo "#############################################################"
     echo ""
     echo -e "操作系统: ${GREEN} ${CMD} ${PLAIN}"
